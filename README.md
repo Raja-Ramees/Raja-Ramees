@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Raja-Ramees/Raja-Ramees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
+💫 About Me:
 👨‍💻 Currently Working On:<br><br>Sculpting my skills as a Linux administrator and delving into the art of Bash and Python scripting.<br><br>🚀 Looking to Collaborate On:<br><br>Exciting projects that involve Linux administration, scripting, and automation. Open to collaborations that ignite curiosity and innovation.<br><br>🔍 Looking for Help With:<br><br>Seeking guidance and insights into advanced Linux administration techniques, best practices in Bash and Python, and efficient automation strategies.<br><br>📚 Currently Learning:<br><br>Continuously honing my Linux administration expertise and expanding my scripting prowess with a keen focus on Bash and Python<br><br>❓ Ask Me About:<br>Anything related to Linux administration, scripting tips, or the fascinating journey of a learner in the tech world<br><br>🎉 Fun Fact:<br><br>I once crafted a Bash script that solved a real-life problem faster than making a cup of coffee! ☕🚀<br><br><br>
 
 
