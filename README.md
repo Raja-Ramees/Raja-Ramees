@@ -1,10 +1,53 @@
 💫 About Me:
-👨‍💻 Currently Working On:<br><br>Sculpting my skills as a Linux administrator and delving into the art of Bash and Python scripting.<br><br>🚀 Looking to Collaborate On:<br><br>Exciting projects that involve Linux administration, scripting, and automation. Open to collaborations that ignite curiosity and innovation.<br><br>🔍 Looking for Help With:<br><br>Seeking guidance and insights into advanced Linux administration techniques, best practices in Bash and Python, and efficient automation strategies.<br><br>📚 Currently Learning:<br><br>Continuously honing my Linux administration expertise and expanding my scripting prowess with a keen focus on Bash and Python<br><br>❓ Ask Me About:<br>Anything related to Linux administration, scripting tips, or the fascinating journey of a learner in the tech world<br><br>
+## 💫 About Me:
+👨‍💻 **Currently Working On:**
+Sculpting my skills as a Linux administrator and delving into the art of Bash and Python scripting.
+🚀 **Looking to Collaborate On:**
+Exciting projects that involve Linux administration, scripting, and automation. Open to collaborations that ignite curiosity and innovation.
+🔍 **Looking for Help With:**
+Seeking guidance and insights into advanced Linux administration techniques, best practices in Bash and Python, and efficient automation strategies.
+📚 **Currently Learning:**
+Continuously honing my Linux administration expertise and expanding my scripting prowess with a keen focus on Bash and Python.
+❓ **Ask Me About:**
+Anything related to Linux administration, scripting tips, or the fascinating journey of a learner in the tech world.
+
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayees-ayoub-804a7b262/) 
-# 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-%232C5263.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-%232C5263.svg?style=for-the-badge&logo=Fedora&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+Operating Systems:
+🐧 Linux: Arch, Debian (Virtualization), FedoraScripting & Programming:🐍 Python🐚 Shell ScriptWeb Servers & Load Balancers:🌐 Nginx🌐 Apache
+Networking Protocols:🔒 SSH: Secure Shell for secure remote access and file transfers.📂 FTP: File Transfer Protocol for efficient file sharing.
+File Sharing & Network Services:📂 Samba: Providing file and print services for various Microsoft Windows clients.📂 NFS (Network File System): Network protocol for distributed file systems, allowing remote access.
+Time Synchronization:]🕰 NTP (Network Time Protocol): Synchronizing system clocks over a network for accurate timekeeping.
+Firewall & Network Security:
+🚧 Firewall: Implementing network security policies to control and monitor incoming and outgoing network traffic.
+Cloud & Virtualization:
+☁ AWS Databases:🏛 Oracle
+Web Technologies:🌐 HTML5
+## 💻 Tech Stack:
+### Version Control & Collaboration:
+- 🔄 **Git:** Distributed version control system for tracking changes in source code.
+  - Initialize a new Git repository: `git init`
+  - Clone a repository: `git clone repository_url`
+  - Stage changes for commit: `git add filename`
+  - Commit changes to the repository: `git commit -m "Commit message"`
+  - Push changes to a remote repository: `git push origin branch_name`
+### Online Repository Hosting:
+- 🌐 **GitHub:** Web-based platform for hosting and collaborating on Git repositories.
+  - Create a new repository on GitHub: `gh repo create repo_name`
+  - Push code to a GitHub repository: `git push origin branch_name`
+  - Fork a repository: Click the "Fork" button on GitHub.
+### Collaboration & Pull Requests:
+- 🚀 **Pull Requests (PRs):** Proposed changes to a repository submitted for review.
+  - Open a Pull Request: Create one on GitHub after pushing changes.
+  - Review and merge Pull Requests: Use the GitHub interface.
+### Git Branching:
+- 🌿 **Branching:** Managing parallel developments in Git.
+  - Create a new branch: `git branch branch_name`
+  - Switch to a branch: `git checkout branch_name`
+  - Merge branches: `git merge branch_name`
+### Git Configuration:
+- ⚙ **Configuration:** Set up user details and preferences.
+  - Configure user details: `git config --global user.name "Your Name"`
+  - Configure email: `git config --global user.email "your.email@example.com"`
 
 
