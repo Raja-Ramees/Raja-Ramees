@@ -12,7 +12,7 @@ Continuously honing my Linux administration expertise and expanding my scripting
 Anything related to Linux administration, scripting tips, or the fascinating journey of a learner in the tech world.
 
 
-## 🌐 Socials:
+## 🌐 Socials:https://www.linkedin.com/in/raja-ramees-804a7b262/
 Operating Systems:
 🐧 Linux: Arch, Debian (Virtualization), FedoraScripting & Programming:🐍 Python🐚 Shell ScriptWeb Servers & Load Balancers:🌐 Nginx🌐 Apache
 Networking Protocols:🔒 SSH: Secure Shell for secure remote access and file transfers.📂 FTP: File Transfer Protocol for efficient file sharing.
